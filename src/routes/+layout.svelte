@@ -1,6 +1,6 @@
 <script>
   import Nav from '../components/Nav.svelte'
-
+  import "../app.postcss";
 </script>
 
 <div style="padding: 1rem; background-color: darkolivegreen; color: white">

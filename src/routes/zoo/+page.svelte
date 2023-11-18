@@ -1,1 +1,1 @@
-<h2>Zoo</h2>
+<h2 class="text-3xl font-semibold">Zoo</h2>
